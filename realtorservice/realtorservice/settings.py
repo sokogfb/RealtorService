@@ -87,8 +87,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'realt',
         'USER': 'postgres',
-        'PASSWORD': '02082001',
-        'HOST': 'localhost',
+        'PASSWORD': 'postgres',
+        'HOST': '127.0.0.1',
     }
 }
 
@@ -150,6 +150,6 @@ MESSAGE_TAGS = {
 
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'grucushun90@gmail.com'
-EMAIL_HOST_PASSWORD = 'dgigalimon'
+EMAIL_HOST_USER = 'zamphiaicthelpdesk@gmail.com'
+EMAIL_HOST_PASSWORD = 'mgic#zambia@zmphia2020'
 EMAIL_PORT = 587
